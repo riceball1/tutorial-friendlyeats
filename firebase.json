@@ -1,4 +1,15 @@
 {
+  "emulators": {
+    "firestore": {
+      "port": 5002
+    },
+    "functions": {
+      "port": 5001
+    },
+    "hosting": {
+      "port": 5005
+    }
+  },
   "hosting": {
     "public": "./",
     "ignore": [
